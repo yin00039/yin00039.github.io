@@ -14,3 +14,24 @@ body {
 #my-image {
     box-shadow: 0px 0px 2px 1px black;
 }
+
+.hobby-list {
+    list-style-type: square;
+}
+
+.menu a:link{
+    text-decoration: none;
+    list-style-type: none;
+    background-color: azure;
+    border-style: solid;
+}
+
+.menu a:hover{
+    background-color: blue;
+}
+
+.hobby-list li:nth-child(odd) {
+    background-color: aquamarine;
+}
+
+
