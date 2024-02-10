@@ -11,6 +11,6 @@ body {
     color: brown;
 }
 
-main #my-image {
-    box-shadow: 1px, 1px, 2px, 1px, black;
+#my-image {
+    box-shadow: 0px 0px 2px 1px black;
 }
