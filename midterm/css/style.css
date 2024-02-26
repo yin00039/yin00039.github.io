@@ -2,7 +2,7 @@ body{
     background-color: #aad4cf;
 }
 
-#right-column{
+#right-column{ 
     width: 15%;
     height: 100%;
     background-color: #aad4cf;
@@ -57,7 +57,7 @@ nav li{
     font-size: 25px;
 }
 
-nav li a:link, a:visited{
+nav li a:link, a:visited{ /*styling nav bar based on its state */
     display: inline-flex;
     text-decoration: none;
     color: black;
